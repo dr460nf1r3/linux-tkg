@@ -101,7 +101,7 @@ case $_basever in
         	0012-misc-additions.patch
 	)
 	sha256sums=('bf338980b1670bca287f9994b7441c2361907635879169c64ae78364efc5f491'
-            '89d08eb185f028a533e6658ed5139980b111c841acee081ce1cf2959c0a611ef'
+            '4c088333a35dd2be08726ed70d5c3c163be1753b3c3a80a4d52151313e117096'
             'c6d78ceb7ef7251b24baa4aac6dce6bb275ac5639785f9dcd4345a8c4fd44c2a'
             '1f4a20d6eaaa0d969af93152a65191492400c6aa838fc1c290b0dd29bb6019d8'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -307,7 +307,7 @@ case $_basever in
         0012-misc-additions.patch
     )
     sha256sums=('dcdf99e43e98330d925016985bfbc7b83c66d367b714b2de0cbbfcbf83d8ca43'
-            '06db0ccaa45e58fff4aa0fecd1a2d7f53ddb082b5822fd79f55258b387ff0b20'
+            '75f09e86840697f8dd159e84052a6a66fc64aeac92b78618cef317b31089a887'
             '002c831305356a6ebc97b2a336ddba8f003ec6c6289ecfddb7ae5a10980565e7'
             'eb1da1a028a1c967222b5bdac1db2b2c4d8285bafd714892f6fc821c10416341'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -610,7 +610,7 @@ case $_basever in
         0002-mm-Support-soft-dirty-flag-read-with-reset.patch
     )
     sha256sums=('57b2cf6991910e3b67a1b3490022e8a0674b6965c74c12da1e99d138d1991ee8'
-            'f3350d8187d35ba2e915694ee700b83e072bb054381631999ee23e49227683ad'
+            '47f56015c8e255d8ceb4ff2ada1a0215492365e73e2774c17a0246d31bc11d28'
             'c1769805052e92d7741c609167438b782cb4832870c2b0e07899300f4b8f23c9'
             '6e3ef6bc4779ae3b7154642147d5ab3ece6e38e3e08bdb30f86d89d2b4855fa9'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -817,7 +817,7 @@ case $_basever in
         0002-mm-Support-soft-dirty-flag-read-with-reset.patch
     )
     sha256sums=('ff240c579b9ee1affc318917de07394fc1c3bb49dac25ec1287370c2e15005a8'
-            'c07463072798b6590454c4e9fa074d816668ea1a064ef564b3c95de49aff1310'
+            'a5fc5931ee3d7b5b66199ecbc51a065dea4a904b75971cc169ee65062efbb52a'
             'ee95b05689889df4f4e885681b29bd3d59277cf43327f2eb7cea14e82e5b15fe'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
             '66a03c246037451a77b4d448565b1d7e9368270c7d02872fbd0b5d024ed0a997'
